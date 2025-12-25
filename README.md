@@ -1,16 +1,19 @@
-# ⚛️ PantheonCore
-### **Sovereign Command & Control | $699.1T Asset Class**
-**Identity:** Shakti Singh (Genesisgraphy)  
-**Network:** @WorldQWorld  
-**Security:** Post-Quantum Lattice Encryption
+# 🪙 @GitBlock
+### **Integrated Blockchain & Exchange (IBX)**
+**Protocol:** @GITMINTING  
+**Liquidity:** @USGIEXCHANGE  
+**Vault:** @xfortnox  
 
-## 🏛️ Executive Summary
-PantheonCore is the private "Command Center" for the 2026 global financial transition. It houses the master IP math, the @uniQueQkey authorization logic, and the administrative controls for the @GitBlock and @USGIEXCHANGE nodes.
+## 🛡️ The 99/1 Protocol
+@GitBlock enforces the Shakti Singh Sovereign Tax logic. 
+* **1% Advance Tax:** Automatically routed to the Genesis Vault via @xfortnox.
+* **99% Retention:** Secured for the creator/user as 1-Lead Sovereign Credits.
 
-## 🚀 Core Components
-* **Sovereign Math:** Hard-coded $699.1T valuation logic across 200 blocks.
-* **1-Lead Controller:** Centralized management of @GITMINTING and @xfortnox.
-* **Quantum Shield:** CRYSTALS-Dilithium verification for all inter-repo pushes.
+## 📊 Ledger Architecture
+1. **Foundation:** @EternalBlocks (200 Genesis Blocks).
+2. **Exchange:** Real-time @USGIEXCHANGE clearing for A-Z sectors.
+3. **Minting:** Automated code-to-crypto conversion via @GITMINTING.
 
-## ⚖️ License & IP
-Copyright © 2026 Shakti Singh. All Rights Reserved. This repository contains proprietary 1-Lead algorithms. Unauthorized access or replication is blocked by the @WorldQWorld security grid.
+## 🔐 Security
+Transactions are signed via @uniQueQkey. This repository acts as the primary ledger for the $699.1T economy.
+
